@@ -5,7 +5,7 @@ This Arduino Light Control project and its makefiles are designed to run on an A
 Note:
 This will likely work for other Arduino boards but... I only have the two models mentioned above.
 
-Folder structure is broken into two parts. 1 for the UNO and 1 for the Deicimila board.
+Folder structure is broken into three (3) parts. One (1) for the UNO and one (1) for the Deicimila board and one (1) for the final draft of the complete Arduino sketch named FULL.
 
 Inside these directories are sketches for the following functions with makefiles included:
 Base (from the examples where the Arduino does nothing)
